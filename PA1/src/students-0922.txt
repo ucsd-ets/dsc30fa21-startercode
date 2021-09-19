@@ -1,0 +1,17 @@
+Marina,0,0,0,0,0,1
+Soohyun,1,0,1,0,1,1
+Scott,0,1,0,1,0,0
+Colin,1,0,0,1,0,0
+Jerry,1,0,0,1,1,1
+Brian,1,1,1,1,1,1
+Jeffrey,1,1,1,0,1,0
+Madeline,1,0,0,0,0,0
+Trinity,0,0,0,0,0,0
+Viswesh,0,0,0,0,0,1
+StudentA,1,1,1,1,0,0
+StudentB,0,1,0,0,0,0
+StudentC,1,1,0,0,0,0
+StudentD,0,0,0,0,1,1
+StudentE,1,0,0,0,0,1
+StudentF,0,1,1,0,1,1
+StudentG,0,0,0,0,0,1
