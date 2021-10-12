@@ -57,11 +57,12 @@ public class Autograder implements MessageExchange {
         return false;
     }
 
-    public String resolveTicket() throws OperationDeniedException {
+    public String resolveTicket(User requester) throws OperationDeniedException {
         /* TODO */
         return null;
     }
     public boolean stopSession(){
+        /*TODO*/
         return false;
     }
 
