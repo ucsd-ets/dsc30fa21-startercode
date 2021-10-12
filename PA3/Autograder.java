@@ -14,7 +14,7 @@ public class Autograder implements MessageExchange {
     protected static final String NO_ACCESS =
             "Only tutors can actively resolve tickets.";
     protected static final String NO_LOGS =
-            "There is no more messages in the log.";
+            "There are no more messages in the log.";
 
 
 
