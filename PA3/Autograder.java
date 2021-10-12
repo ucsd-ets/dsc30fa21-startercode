@@ -11,6 +11,10 @@ public class Autograder implements MessageExchange {
     // Error message to use in OperationDeniedException
     protected static final String SESSION_ENDED =
             "Session has already ended. Ticket can't be resolved";
+    protected static final String NO_ACCESS =
+            "Only tutors can actively resolve tickets.";
+    protected static final String NO_LOGS =
+            "There is no more messages in the log.";
 
 
 
@@ -31,7 +35,6 @@ public class Autograder implements MessageExchange {
     public ArrayList<String> getResults(){
         /* TODO */
         return null;
-
     }
 
     public boolean addUser(User u) {
