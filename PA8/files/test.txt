@@ -1,0 +1,5 @@
+the quick brown fox jumps over the lazy dog
+the super quick brown foxes jumped over the lazy dogs
+the quick dog jumps over the lazy fox
+quick quick quick
+private static final String QUICK
